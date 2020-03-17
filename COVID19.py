@@ -172,7 +172,7 @@ def simulate_pandemic(num_people, num_moving, num_hours, res, recovery_time, dra
     
 
 num_people = 1000
-num_moving = 200
+num_moving = num_people
 num_hours = 24*120
 res = 200
 recovery_time = 24*14
